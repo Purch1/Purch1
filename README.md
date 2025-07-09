@@ -11,30 +11,6 @@ Here's the **complete, polished, and stats-powered** version of your GitHub READ
 
 ---
 
-## 📊 **GitHub Analytics**  
-*Proof of code, not just words*  
-
-<div align="center">
-  <a href="https://github.com/Purch1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purch1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Prince's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Purch1">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Purch1&theme=radical&hide_border=true&fire=DD2727" width="48%" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Purch1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purch1&layout=compact&theme=radical&hide_border=true&exclude_repo=unwanted-repo" width="40%" />
-  </a>
-  <a href="https://github.com/Purch1">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Purch1&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" width="90%" />
-  </a>
-</div>
-
----
 
 ## 🚀 **About Me**  
 I transform coffee into **scalable systems** and ideas into **production-ready code**. With a focus on **backend engineering** and **cloud solutions**, I bridge the gap between infrastructure and user experience.  
@@ -79,14 +55,39 @@ I transform coffee into **scalable systems** and ideas into **production-ready c
 
 ---
 
+## 📊 **GitHub Analytics**  
+*Proof of code, not just words*  
+
+<div align="center">
+  <a href="https://github.com/Purch1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Purch1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Prince's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Purch1">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Purch1&theme=radical&hide_border=true&fire=DD2727" width="48%" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Purch1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purch1&layout=compact&theme=radical&hide_border=true&exclude_repo=unwanted-repo" width="40%" />
+  </a>
+  <a href="https://github.com/Purch1">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Purch1&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" width="90%" />
+  </a>
+</div>
+
+---
+
 ## 📬 **Let's Collaborate!**  
 I'm actively seeking:  
 - **Open-source contributions**  
 - **Mentorship opportunities**  
 - **Full-time backend/cloud engineering roles**  
 
-📧 **Email**: [ediongi6@gmail.com](mailto:ediongi6@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/iediong](https://linkedin.com/in/iediong)  
+📧 **Email**: [ucheprince26@gmail.com](mailto:ucheprince26@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/prince-ikechukwu-6a4bb4142/](https://www.linkedin.com/in/prince-ikechukwu-6a4bb4142/)  
 
 ---
 
@@ -95,10 +96,4 @@ I'm actively seeking:
 
 ---
 
-### 🌟 **Visitor Counter**  
-![Profile Views](https://komarev.com/ghpvc/?username=Purch1&color=blueviolet&style=flat-square)  
-
-*Last updated: {Month Year}*  
-
----
 
