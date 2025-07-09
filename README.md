@@ -26,3 +26,16 @@
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🔄 **Development Workflow**  
+- **Agile Methodology**: Sprint planning with Jira/Azure DevOps  
+- **Version Control**: Git flow with feature branches and PR reviews  
+- **CI/CD**: Automated pipelines with GitHub Actions/Azure DevOps  
+- **Containerization**: Docker for consistent environments  
+- **Infrastructure as Code**: Terraform for cloud provisioning  
+- **Testing**: Unit/Integration tests with xUnit/Mocha  
+
+## 📌 **Current Projects**  
+- Building microservices architecture with .NET Core and Docker  
+- Developing React-based admin dashboard with TypeScript  
+- Implementing CI/CD pipelines for cloud deployments  
