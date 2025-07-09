@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Prince Uche Ikechukwu
 
-<!--
-**Purch1/Purch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Engineer & Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+- 🎓 I'm passionate about software engineering and constantly learning new technologies.
+- 🧰 Exploring web development, backend systems, and cloud technologies.
+- 🚀 Interested in building impactful, real-world projects.
+
+---
+
+## 🛠 Languages & Tools
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+## 📫 Contact Me
+- Email: [ediongi6@gmail.com](mailto:ediongi6@gmail.com)
+- LinkedIn: [linkedin.com/in/iediong](https://linkedin.com/in/iediong)
+
+---
+
+## 🌱 Currently Learning
+- .NET Core & Web APIs
+- Modern frontend frameworks (React, Angular)
+- Cloud services and DevOps basics
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
