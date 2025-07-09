@@ -5,18 +5,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ucheprince26@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purch1)
 
----
-
-## 🔍 **About Me**  
-I build robust, scalable solutions using modern technologies with expertise in both frontend and backend development.
-
-**Current Focus:**  
-- Developing with Python, C#, ASP.NET Core, and React.js  
-- Implementing cloud solutions and DevOps practices  
-- Mentoring junior developers  
-
----
-
 ## 🛠 **Technical Stack**  
 
 ### **Core Technologies**  
